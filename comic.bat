@@ -1,0 +1,1 @@
+start cmd /k "cd/d D:\Software\Miniconda&&call D:\Software\Miniconda\Scripts\activate.bat&&call conda activate base &&call d:&&call cd D:\Work\GUI\PyComic&&call python D:\Work\GUI\PyComic\comic.py %1 %2 %3 %4"

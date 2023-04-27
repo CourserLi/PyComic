@@ -1,0 +1,16 @@
+{
+  "Card_Information": "NVIDIA GeForce RTX 2060",
+  "OS_Version": "Windows-10-10.0.22621-SP0",
+  "CUDA_Version": "V12.1.66",
+  "Python_Version": "3.10.9",
+  "Pytorch_Version": "2.0.0",
+  "Pytorch_CUDA": "True",
+  "Tensorflow_Version": "2.10.1",
+  "Tensorflow_CUDA": "True",
+  "PC_Framework": "AMD64",
+  "PC_Information": "Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",
+  "CPU_logic": "12",
+  "CPU_core": "6",
+  "CPU_Use": "CPU_1: 3.0%    CPU_2: 0.0%    CPU_3: 0.0%    CPU_4: 3.0%    CPU_5: 12.1%    CPU_6: 3.0%    \nCPU_7: 0.0%    CPU_8: 3.0%    CPU_9: 0.0%    CPU_10: 0.0%    CPU_11: 0.0%    CPU_12: 18.2%    ",
+  "Memory": "\u603b\u5185\u5b58: 15.88 G,   \u5df2\u4f7f\u7528\u5185\u5b58: 9.58 G,   \u672a\u4f7f\u7528\u5185\u5b58: 6.30 G,   \u5185\u5b58\u4f7f\u7528\u7387: 60.3%"
+}
