@@ -4,7 +4,7 @@
 
 ## APP 介绍
 
-基于人工智能的图片动漫化，构成：GUI 界面（PySide6 实现电脑端 APP）+ 内容主体（Python 实现 AI 功能）。GUI 模板是 [PyDracula](https://github.com/Wanderson-Magalhaes/Modern_GUI_PyDracula_PySide6_or_PyQt6)，AI 模型是 [AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2) ，详细笔记请看[这篇博客](https://www.cnblogs.com/CourserLi/p/17156077.html)，也算是抽空学习的一个小项目，相比其他桌面端 APP，优势在于很容易结合 Python 脚本文件
+基于人工智能的图片动漫化，组成：GUI 界面（PySide6 实现电脑端 APP）+ 内容主体（Python 实现 AI 功能），GUI 模板是 [PyDracula](https://github.com/Wanderson-Magalhaes/Modern_GUI_PyDracula_PySide6_or_PyQt6)，AI 模型是 [AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2) ，详细笔记请看[这篇博客](https://www.cnblogs.com/CourserLi/p/17156077.html)，也算是抽空学习的一个小项目，PySide6 开发相比其他桌面端 APP 开发，优势在于比较容易结合 Python 脚本文件
 
 主要功能：
 
